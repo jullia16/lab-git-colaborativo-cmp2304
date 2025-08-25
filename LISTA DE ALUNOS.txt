@@ -1,2 +1,3 @@
-# Lista de Presença - Atividade de Laboratório Git/GitHub
-20242002801040 Eduardo Augusto Moreira
+# Lista de Presença - Atividade de Laboratório Git/GitHub<<<<<<< HEAD
+20242002801040 - Eduardo Augusto Moreira
+20242002800966 - Jullia Gabriela da Silva Nascimento
